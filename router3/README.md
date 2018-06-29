@@ -93,7 +93,7 @@ render() {
 
 ### 按需加载
 Route 可以定义 getChildRoutes，getIndexRoute 和 getComponents 这几个函数。它们都是异步执行，并且只有在需要时才被调用。我们将这种方式称之为 “逐渐匹配”。 React Router 会逐渐的匹配 URL 并只加载该 URL 对应页面所需的路径配置和组件。
-![图呢？](/images/router-split3.png)
+![图呢？](../images/router-split3.png)
 
 ### 路由钩子
 1. onEnter 进入路由时触发 场景：认证权限

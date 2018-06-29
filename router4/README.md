@@ -138,7 +138,7 @@ history
 ```
 
 ### 按需加载
-![图呢？](/images/router-split4.png)
+![图呢？](../images/router-split4.png)
 ```
 {
   "presets": [
