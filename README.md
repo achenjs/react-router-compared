@@ -15,6 +15,5 @@
 3. v4不在提供hashHistory和browserHistory等方法，而是将他们封装成了react组件
 4. v4更加组件化，将一切react-router问题变成了react组件问题
 
-
 ### 参考资料
 * 
